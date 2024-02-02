@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58370151596",
+    "project_id": "freshiejobs-beacc",
+    "storage_bucket": "freshiejobs-beacc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58370151596:android:ad78db92387815f7c0fb09",
+        "android_client_info": {
+          "package_name": "com.vamshisangishetty.FreshieHire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3_nyJogzLFg0zJfZNIH7OSXgdLXnj_8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
